@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">FilmsApp</string>
-    <string name="api_key">60fc0288ec3c0c14279f3ec566d452bf</string>
+    <string name="btn_proxima_pagina">Próxima Página</string>
+    <string name="lbl_votos">Votos:</string>
+    <string name="lbl_hint">xx</string>
+    <string name="lbl_titulo">Titulo</string>
+    <string name="lbl_descricao">Descrição</string>
+    <string name="lbl_media_votos">Média de Votos:</string>
+    <string name="hit_descricao">Descrição</string>
 
 </resources>
