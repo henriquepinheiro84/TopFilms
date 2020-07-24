@@ -1,7 +1,7 @@
 package com.henrique.filmsapp.utilidade;
 
 public class Utilidade {
-    public static String apiKey = "?api_key=60fc0288ec3c0c14279f3ec566d452bf";
+    public static String apiKey = "?api_key=ENTRE_COM_SUA_CHAVE";
     public static String urlBase = "https://api.themoviedb.org/3/movie/";
     public static String paraLancar = "upcoming";
     public static String lingua = "&language=pt-BR";
