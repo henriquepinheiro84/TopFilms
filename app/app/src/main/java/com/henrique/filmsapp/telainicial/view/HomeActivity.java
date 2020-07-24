@@ -40,6 +40,9 @@ public class HomeActivity extends AppCompatActivity implements HomeViewInterface
                 listaFilmes(HomeActivity.this, pagina);
             }
         });
+
+        setTitle("Lista de filmes");
+
     }
 
     private void setAdapter(List<Filme> filmes) {

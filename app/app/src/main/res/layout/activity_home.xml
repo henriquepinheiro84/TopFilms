@@ -15,7 +15,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:layout_weight="0"
-        android:background="@color/colorPrimaryDark"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/corBranca"
         android:text="@string/btn_proxima_pagina"/>
 
 </LinearLayout>
